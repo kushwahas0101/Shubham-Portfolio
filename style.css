@@ -165,8 +165,9 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("https://images.squarespace-cdn.com/content/v1/59d00918edaed82d1191c968/1597138980025-AAQRZY4YO2B7U9TVUMDU/black-banner.png?format=2500w") no-repeat center;
-    height: 100vh;
+    /*  background: url("https://images.squarespace-cdn.com/content/v1/59d00918edaed82d1191c968/1597138980025-AAQRZY4YO2B7U9TVUMDU/black-banner.png?format=2500w") no-repeat center; */
+    background: url("https://www.hdwallpapers.in/download/blue_smoke_dark_background_hd_dark_background-HD.jpg") no-repeat center;
+    height: 100vh;   
     color: #fff;
     min-height: 500px;
     background-size: cover;
