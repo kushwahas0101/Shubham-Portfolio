@@ -4,5 +4,5 @@ Designed a portfolio using html, css, javascript.  it contains all the info abou
 <br><br>
 <img width="1000" alt="Screenshot 2024-01-25 004914" src="https://github.com/shubhamkushwaha133/Shubham-Portfolio/assets/110382194/ce0baaf5-87e1-4d01-bce1-72d08e28c351">
 <br><br>
-<img width="795" alt="Screenshot 2024-01-25 005308" src="https://github.com/shubhamkushwaha133/Shubham-Portfolio/assets/110382194/c80bc2b9-1190-463d-b657-d52ee6f5c02a">
+<img width="1000" alt="Screenshot 2024-01-25 005308" src="https://github.com/shubhamkushwaha133/Shubham-Portfolio/assets/110382194/c80bc2b9-1190-463d-b657-d52ee6f5c02a">
 <br><br> 
